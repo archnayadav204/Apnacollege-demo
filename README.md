@@ -1,2 +1,3 @@
 # Apnacollege-demo
-My first project on GitHub.
+This is my first Git Repository.
+Author- Archna Yadav
